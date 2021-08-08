@@ -1,1 +1,1 @@
-# things-hive
+# Things Hive
